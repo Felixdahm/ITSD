@@ -1,10 +1,9 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Hero from "@/components/sections/Hero";
-import Themen from "@/components/sections/Themen";
-import Produkte from "@/components/sections/Produkte";
-import Vorteile from "@/components/sections/Vorteile";
-import Kontakt from "@/components/sections/Kontakt";
+import Leistungen from "@/components/sections/Leistungen";
+import Features from "@/components/sections/Features";
+import Testimonials from "@/components/sections/Testimonials";
 
 export default function Home() {
   return (
@@ -12,10 +11,9 @@ export default function Home() {
       <Navbar />
       <main className="flex-1">
         <Hero />
-        <Themen />
-        <Produkte />
-        <Vorteile />
-        <Kontakt />
+        <Leistungen />
+        <Features />
+        <Testimonials />
       </main>
       <Footer />
     </>

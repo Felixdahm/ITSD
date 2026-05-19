@@ -8,17 +8,17 @@
 ---
 
 ## Ziel
-Next.js 15 Projekt mit Tailwind CSS, TypeScript und Framer Motion initialisieren und Grundstruktur anlegen.
+Next.js 16 Projekt mit Tailwind CSS v4, TypeScript und Lucide React initialisieren und Grundstruktur anlegen.
 
 ## Aufgaben
 - [x] `npx create-next-app` ausführen (TypeScript, Tailwind, App Router)
-- [x] Framer Motion und Lucide React installieren
+- [x] Lucide React installieren
 - [x] Ordnerstruktur anlegen (`components/`, `sections/`)
 - [x] Basis-Layout (Navbar + Footer) erstellen
-- [x] Farbschema / Design-Token in globals.css definieren
+- [x] Farbschema in globals.css definieren (`#006098` primary, `#3d4452` dark)
 
 ## Notizen
-- Next.js 16.2.6 installiert (neueste Version)
-- Dev-Server läuft auf Port 3002 (3000 war belegt)
-- Alle 5 Sektionen gebaut: Hero, Themen, Produkte, Vorteile, Kontakt
-- Alle Inhalte 1:1 von hr.itsd-consulting.de übernommen
+- Next.js 16.2.6 installiert
+- Dev-Server läuft auf Port 3000
+- Logo und alle Bilder von itsd-softwareentwicklung.de heruntergeladen (SVG-Logo, 7 Leistungsbilder, Footer-Logo)
+- Startseite aufgebaut: Hero, Leistungen (7), Vorteile (3), Testimonials (4), Kontakt, Footer

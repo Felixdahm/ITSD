@@ -1,66 +1,62 @@
-# TICKET-002 – Vollständige Website 1:1 nachbauen
+# TICKET-002 – Vollständige Website nachbauen
 
-**Status:** `erledigt`  
+**Status:** `in Arbeit`  
 **Priorität:** `hoch`  
 **Erstellt:** 2026-05-19  
-**Erledigt:** 2026-05-19
+**Erledigt:** –
 
 ---
 
 ## Ziel
-Die gesamte hr.itsd-consulting.de 1:1 in Next.js nachbauen – alle Unterseiten, alle Inhalte, vollständige Navigation mit Dropdowns.
+Die gesamte itsd-softwareentwicklung.de in Next.js nachbauen – alle Unterseiten, alle Inhalte, vollständige Navigation.
 
 ## Aufgaben
 
-### Navigation
-- [x] Navbar mit Dropdown-Menü (Desktop hover + Mobile click)
-- [x] HR-Lösungen Dropdown mit 6 Einträgen
-- [x] Unternehmen Dropdown mit Karriere + Anfahrt
+### Startseite (/)
+- [x] Navbar mit Logo (SVG) + einfache Navigation (5 Links)
+- [x] Hero-Sektion – „Individuelle Software für Konzerne und Unternehmen"
+- [x] Leistungen-Sektion (7 Karten mit echten Bildern)
+- [x] Vorteile-Sektion (3 Kernstärken)
+- [x] Testimonials (4 Kundenstimmen)
+- [x] Kontakt-Sektion mit Formular + Kontaktdaten
+- [x] Footer mit Logo, Links, Kontaktdaten
 
-### Startseite
-- [x] Hero-Sektion
-- [x] Themen-Sektion (8 Punkte)
-- [x] Produkt-Karten mit Filter (6 Produkte)
-- [x] Vorteile (9 Punkte – nicht 8!)
-- [x] Footer
-
-### Unterseiten Produkte
-- [x] /hr-portalloesung
-- [x] /actus-expertensystem
-- [x] /merit-expertensystem
-- [x] /bem-expertensystem
-- [x] /oeffentlicher-dienst
-- [x] /era
-
-### Weitere Seiten
-- [x] /service
-- [x] /ansprechpartner
-- [x] /unternehmen
-- [x] /anfahrt
-- [x] /news
-- [x] /karriere
-- [x] /anmelden
+### Unterseiten
+- [ ] /softwareentwicklung
+- [ ] /software-betreuung
+- [ ] /hr-loesungen
+- [ ] /ueber-uns
+- [ ] /impressum
+- [ ] /datenschutz
 
 ## Gesammelte Inhalte
 
 ### Kontaktdaten
-- Telefon: +49 5722 288 99-0
-- E-Mail: hr@itsd-consulting.de
-- Bückeburg: Herminenstr. 24, 31675 Bückeburg
-- Bünde: Blankensteinstr. 62, 32257 Bünde
+- Adresse: Blankensteinstraße 62, 32257 Bünde
+- Telefon: +49 5223 7933400
+- E-Mail: dev@itsd-consulting.de
 
-### Ansprechpartner
-- Frank Schlinkheider – Geschäftsführer, HR-Produkte & Portale
-- Sonja Riekenberg – Assistenz & Vertrieb, Web-Demos, Vor-Ort-Termine
-- Ralf Ackermeier – Server Operations & Support
+### Leistungen (7)
+1. Human Resources
+2. Softwareentwicklung
+3. Softwarebetreuung
+4. Sichere Software
+5. Cloud Ready
+6. Full-Service Software
+7. SCRUM
 
-### News (neueste)
-- Sep 2025: Zukunft Personal Europe Köln
-- Jun 2025: Partnerschaft mit Collabora (Open-Source Office)
-- Mrz 2025: Zukunft Personal Nord Hamburg
-- Jun 2024: Partnerschaft mit Namirial (E-Signatur)
-- Feb 2024: Top Brand – Corporate Health 2024
+### Kundenstimmen
+- Andreas Meynhardt – TOYOTA Kreditbank
+- Eckhard Jostmeier – Customize-IT GmbH & Co. KG
+- Gerald Wischnewski – Apotheken-Rechen-Zentrum GmbH
+- Roland Blask
+
+### Vorteile (3)
+1. Profis mit über 20 Jahren Erfahrung
+2. Individueller SCRUM Entwicklungsprozess
+3. Sicherheit, Expertise und Kompetenz
 
 ## Notizen
-- 9 Vorteile (nicht 8) – der 9. ist "Branchenspezifisch"
-- Unternehmen gegründet 2000, Standorte Bückeburg + Bünde
+- Original-Site: WordPress
+- Alle Bilder direkt von itsd-softwareentwicklung.de heruntergeladen
+- Primärblau aus dem SVG-Logo extrahiert: `#006098`

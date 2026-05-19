@@ -1,18 +1,17 @@
-# ITSD Consulting – HR-Portal Neuaufbau
+# ITSD Softwareentwicklung – Website Neuaufbau
 
 ## Projektziel
 
-Neuaufbau und Verbesserung der Website **https://hr.itsd-consulting.de/** – eine B2B-HR-Softwarelösung der ITSD Consulting GmbH. Die bestehende Site basiert auf Liferay Portal und soll durch einen modernen, eigenständigen Tech-Stack ersetzt werden.
+Neuaufbau der Website **https://itsd-softwareentwicklung.de/** – individuelle Softwareentwicklung für Konzerne und Unternehmen. Die bestehende Site basiert auf WordPress und soll durch einen modernen, eigenständigen Next.js-Stack ersetzt werden.
 
 ---
 
 ## Unternehmens-Kontext
 
 **Firma:** ITSD Consulting GmbH  
-**Website:** https://itsd-consulting.de  
-**Produkt-Site:** https://hr.itsd-consulting.de  
-**Slogan:** „Ihr Partner in Sachen HR-Lösungen"  
-**Zielgruppe:** Mittelständische und Großunternehmen sowie kommunale Verwaltungen
+**Website:** https://itsd-softwareentwicklung.de/  
+**Slogan:** „Individuelle Software für Konzerne und Unternehmen"  
+**Zielgruppe:** Konzerne, mittelständische Unternehmen
 
 ---
 
@@ -20,85 +19,71 @@ Neuaufbau und Verbesserung der Website **https://hr.itsd-consulting.de/** – ei
 
 ### Navigation (Hauptmenü)
 ```
-HR-Lösungen
-  ├── HR Produkte
-  │   ├── HR-Enterprise 2.0 Portal
-  │   ├── ACTUS-ExpertenSystem
-  │   ├── MERIT-ExpertenSystem
-  │   └── BEM-ExpertenSystem
-  └── Branchenlösungen
-      ├── TVöD-Lösung
-      └── ERA-Lösung
-
-Service
-Ansprechpartner
-Unternehmen
-  ├── Karriere
-  └── Anfahrt
-News
-Anmelden
+Softwareentwicklung
+Software Betreuung
+Vorteile
+Über uns
+Kontakt
 ```
 
 ---
 
-## Produkte & Inhalte
+## Leistungen & Inhalte
 
-### HR-Produkte
-
-| Produkt | Beschreibung |
+| Leistung | Beschreibung |
 |---|---|
-| **HR-Enterprise 2.0 Portal** | Portallösung mit Social Software, browserbasiert, rollenbasiertes Berechtigungssystem (RBAC) |
-| **ACTUS-ExpertenSystem** | Fokus auf Organisationsentwicklung: Stellenbeschreibungen, Stellenbewertungen, Anforderungsprofile |
-| **MERIT-ExpertenSystem** | Fokus auf Mitarbeiterentwicklung: Beurteilungen, Zielvereinbarungen, Kompetenzprofile, Personalentwicklung |
-| **BEM-ExpertenSystem** | Betriebliches Eingliederungsmanagement |
-
-### Branchenlösungen
-
-| Lösung | Zielgruppe |
-|---|---|
-| **TVöD-Lösung** | Öffentlicher Dienst / kommunale Verwaltungen |
-| **ERA-Lösung** | Metall- und Elektroindustrie |
-
-### Abgedeckte HR-Themen
-- Grund- und Leistungsentgelt
-- Stellenbeschreibungen & Stellenbewertungen
-- Anforderungs- und Kompetenzprofile
-- Mitarbeiterbeurteilungen
-- Zielvereinbarungen
-- Personalentwicklung
-- Betriebliches Eingliederungsmanagement (BEM)
+| **Human Resources** | Projektspitzen abfangen und Kompetenzen liefern. Spezialisten für alle Themen der Softwareentwicklung. |
+| **Softwareentwicklung** | Von der ersten Idee bis zur anschließenden Betreuung: Komplettanbieter für moderne Softwareentwicklung. |
+| **Softwarebetreuung** | Optimale Organisation nach Kanban in enger Abstimmung mit dem Kunden. |
+| **Sichere Software** | Standardisierte Sicherheitsverfahren, weitreichende Kenntnisse in der Datenverschlüsselung. |
+| **Cloud Ready** | Plattformunabhängiger Einsatz, geschützt vor Ausfällen. |
+| **Full-Service Software** | 1st – 3rd Level Support und Hosting in der Cloud oder auf dedizierten Servern. |
+| **SCRUM** | Alle SCRUM Rollen bekannt und perfekt besetzbar. |
 
 ---
 
-## Kernmerkmale der Software
+## Kernmerkmale / Vorteile
 
-- Browserbasierte Architektur (kein Desktop-Client nötig)
-- Rollenbasiertes Berechtigungssystem (RBAC)
-- Workflow-Unterstützung
-- Revisionssichere Dokumentation
-- Integration in bestehende Infrastrukturen (SAP, P&I Loga)
-- DSGVO-konform
-- BSI-zertifizierte Rechenzentren
-- Verschlüsselung
+- Profis mit über 20 Jahren Erfahrung
+- Individueller SCRUM Entwicklungsprozess
+- Sicherheit, Expertise und Kompetenz
+- Alle Projekte in Time & Budget
 
 ---
 
 ## Positioning / Kernbotschaft
 
-> „Sie suchen einen kompetenten IT-Partner, der Ihnen anpassbare HR-Lösungen liefert, Sie bei der Analyse und der Integration unterstützt und Sie auch nach der Umsetzung nicht allein lässt?"
+> „Individuelle Software für Konzerne und Unternehmen – Software von der Idee ab entwickelt."
 
 Drei Differenzierungsmerkmale:
-1. Anpassbare Lösungen
-2. Begleitung bei Analyse & Integration
-3. Langfristiger Support nach Go-Live
+1. 20+ Jahre Erfahrung
+2. SCRUM-Entwicklungsprozess
+3. Sicherheit & Verschlüsselung
+
+---
+
+## Kundenstimmen
+
+- **Andreas Meynhardt** – TOYOTA Kreditbank
+- **Eckhard Jostmeier** – Customize-IT GmbH & Co. KG
+- **Gerald Wischnewski** – Apotheken-Rechen-Zentrum GmbH
+- **Roland Blask**
+
+---
+
+## Kontaktdaten
+
+- **Adresse:** Blankensteinstraße 62, 32257 Bünde
+- **Telefon:** +49 5223 7933400
+- **E-Mail:** dev@itsd-consulting.de
 
 ---
 
 ## Footer
 
 - © ITSD Consulting GmbH
-- Links: Impressum, Datenschutzerklärung
-- Verweis auf Hauptseite: itsd-consulting.de
+- Links: Impressum, Datenschutz
+- Social: LinkedIn, XING
 
 ---
 
@@ -106,70 +91,66 @@ Drei Differenzierungsmerkmale:
 
 | Schicht | Technologie |
 |---|---|
-| Portal-Framework | Liferay Portal |
-| Hosting | BSI-zertifiziertes Rechenzentrum |
-| Integrationen | SAP, P&I Loga |
+| CMS | WordPress |
+| Hosting | Eigener Server |
 
 ---
 
 ## Neuaufbau – Tech-Stack
 
-Reines Frontend / Landing Page – kein Backend-Eigenentwicklung nötig.
+Reines Frontend / Landing Page – kein eigenes Backend.
 
 | Schicht | Technologie |
 |---|---|
-| Framework | Next.js 15 (App Router) |
+| Framework | Next.js 16 (App Router) |
 | Styling | Tailwind CSS v4 |
 | Sprache | TypeScript |
-| Animationen | Framer Motion |
 | Icons | Lucide React |
-| Formulare | React Hook Form + mailto / Formspree |
+| Formulare | mailto |
 | Deployment | Vercel |
 
 ---
 
 ## Verbesserungen gegenüber Original
 
-Die folgenden Punkte sollen beim Neuaufbau verbessert werden:
-
 ### Design & UX
-- [ ] Modernes, aufgeräumtes Design (kein veraltetes Portal-Look)
-- [ ] Mobile-First Responsive Layout
-- [ ] Klare Call-to-Actions auf jeder Seite
-- [ ] Produktvergleichstabelle
-- [ ] Animierte Sektionsübergänge
+- [x] Modernes, aufgeräumtes Design (kein WordPress-Look)
+- [x] Mobile-First Responsive Layout
+- [x] Klare Call-to-Actions auf jeder Seite
+- [ ] Animierte Sektionsübergänge (Framer Motion)
 
 ### Inhalt
-- [ ] Kontaktdaten sichtbar auf der Startseite (Telefon, E-Mail, Adresse)
-- [ ] Kundenreferenzen / Testimonials
-- [ ] Screenshots / Demo-Videos der Software
+- [x] Kontaktdaten sichtbar auf der Startseite
+- [x] Kundenstimmen / Testimonials
+- [x] Echte Bilder aus der Original-Site
 - [ ] FAQ-Sektion
-- [ ] Klares Pricing oder „Angebot anfragen"-Flow
+- [ ] Detailseiten für jede Leistung
 
 ### Technik
-- [ ] Kein Liferay-Overhead – eigenständige, schnelle Site
+- [x] Kein WordPress-Overhead – eigenständige, schnelle Site
 - [ ] SEO-optimiert (Meta-Tags, strukturierte Daten)
 - [ ] DSGVO-konformes Cookie-Banner
-- [ ] Kontaktformular (mailto oder Formspree, kein eigenes Backend)
+- [x] Kontaktformular (mailto)
 
 ---
 
 ## Seitenaufbau (Landing Page – Single Page + Unterseiten)
 
-Die Startseite (`/`) enthält alle Haupt-Sektionen als Scroll-Landing-Page:
-
 ```
 / (Startseite, Scroll-Landing-Page)
-  ├── #hero          → Headline, Subline, CTA-Button
-  ├── #produkte      → Produktkarten mit Filter (HR-Produkte / Branchenlösungen)
-  ├── #features      → Feature-Liste / USPs der Software
-  ├── #branchen      → TVöD & ERA kurz erklärt
+  ├── #hero          → Headline, Subline, CTAs
+  ├── #leistungen    → 7 Leistungskarten mit Bildern
+  ├── #vorteile      → 3 Kernstärken
+  ├── #referenzen    → 4 Testimonials
   ├── #kontakt       → Kontaktformular + Kontaktdaten
 
-Zusätzliche Unterseiten (optional, später):
-/produkte/[slug]     → Detailseite je Produkt
-/impressum           → Impressum
-/datenschutz         → Datenschutzerklärung
+Unterseiten:
+/softwareentwicklung   → Detailseite Softwareentwicklung
+/software-betreuung    → Detailseite Software Betreuung
+/hr-loesungen          → Detailseite HR
+/ueber-uns             → Über uns
+/impressum             → Impressum
+/datenschutz           → Datenschutzerklärung
 ```
 
 ---
@@ -181,3 +162,4 @@ Zusätzliche Unterseiten (optional, später):
 - Keine unnötigen Kommentare im Code
 - Komponenten klein und wiederverwendbar halten
 - Tailwind-Klassen direkt im JSX, keine separaten CSS-Dateien außer globals.css
+- Primärfarbe: `#006098`, Dunkel: `#3d4452`

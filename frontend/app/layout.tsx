@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ITSD Consulting – HR-Lösungen",
-  description: "Ihr Partner in Sachen HR-Lösungen. Anpassbare HR-Software für mittelständische und große Unternehmen sowie kommunale Verwaltungen.",
+  title: "ITSD Softwareentwicklung – Individuelle Software für Konzerne",
+  description: "Software von der Idee ab entwickelt. Profis mit über 20 Jahren Erfahrung in individueller Softwareentwicklung, Betreuung und HR.",
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="de" className="h-full">
-      <body className="min-h-full flex flex-col antialiased">{children}</body>
+      <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
 }
