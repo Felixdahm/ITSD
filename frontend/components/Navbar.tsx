@@ -8,9 +8,9 @@ import Image from "next/image";
 const navLinks = [
   { label: "Softwareentwicklung", href: "/softwareentwicklung" },
   { label: "Software Betreuung", href: "/software-betreuung" },
-  { label: "Vorteile", href: "/vorteile" },
+  { label: "Vorteile", href: "/#vorteile" },
   { label: "Über uns", href: "/ueber-uns" },
-  { label: "Kontakt", href: "/kontakt" },
+  { label: "Kontakt", href: "/#kontakt" },
 ];
 
 export default function Navbar() {
